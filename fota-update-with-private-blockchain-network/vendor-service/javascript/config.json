@@ -1,0 +1,1 @@
+{"connection_file":"..\\..\\blockchain-network\\connection-org1.json","appAdmin":"admin","appAdminSecret":"adminpw","orgMSPID":"Org1MSP","caName":"ca-org1","caURL":"https://localhost:7054","gatewayDiscovery":{"enabled":true,"asLocalhost":true},"managerId":"1720081","processing":"update"}

@@ -1,4 +1,4 @@
-# "demo_build_blockchain_network.mp4": 
+# file "demo_build_blockchain_network.mp4"
 
 - mô phỏng quá trình xây dựng một mạng Private Blockchain thông qua nền tảng Hyperledger Fabric.
 	
@@ -8,7 +8,7 @@
 		
 	+ thực hiện quá trình triển khai Smart Contract thông qua giao diện dòng lệnh trong container cli. Kết quả thu về là container đối tượng Smart Contract được khởi tạo trên peer0.org1.
 
-# "demo_vendor_service.mp4":
+# file "demo_vendor_service.mp4"
 
 - mô phỏng quá trình sử dụng ứng dụng khách Vendor Service để thực hiện quá trình cập nhật firmware cho thiết bị IoT ESP32.
 

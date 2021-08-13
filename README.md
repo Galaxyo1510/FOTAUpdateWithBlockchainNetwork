@@ -1,3 +1,25 @@
+******************************************************************************************************************    
+
+KHÓA LUẬN TỐT NGHIỆP CỬ NHÂN
+
+TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN
+
+NGÀNH KỸ THUẬT ĐIỆN TỬ - VIỄN THÔNG
+
+CHUYÊN NGÀNH MÁY TÍNH - HỆ THỐNG NHÚNG
+
+******************************************************************************************************************    
+
+Họ và Tên sv: 	Nguyễn Triệu Thiên Hào
+
+MSSV: 			1720081
+
+Tên đề tài: 	ứng dụng private blockchain network vào hệ thống cập nhật firmware từ xa cho thiết bị IoT
+
+Tên GVHD: 		TS. Huỳnh Hữu Thuận
+
+******************************************************************************************************************    
+
 # FOTAUpdateWithBlockchainNetwork
 
 - Thư mục "bao_cao" lưu trữ nội dung báo cáo của toàn bộ đồ án khóa luận.
@@ -14,4 +36,4 @@
   
   + Thư mục con "chaincode" lưu trữ source code cho hợp đồng thông minh.
    
-  + Thư mục con "vendor-service" lưu trữ source code cho ứng dụng dịch vụ Vendor Service,
+  + Thư mục con "vendor-service" lưu trữ source code cho ứng dụng dịch vụ Vendor Service.

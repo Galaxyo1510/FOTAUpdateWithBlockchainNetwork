@@ -38,7 +38,7 @@ Tên GVHD: 		TS. Huỳnh Hữu Thuận
 
 ## Kiến trúc hệ thống
 
-![KienTrucMoHinhHeThong](https://user-images.githubusercontent.com/74438131/129361661-884488b7-c1b8-4915-8d4a-0cddb2f97e99.png)
+![KienTrucMoHinhHeThong](https://user-images.githubusercontent.com/74438131/129362116-93ad0254-9d6d-498c-a469-b83b4045d26d.png)
 
 + Các thiết bị IoT: trong nội dung nghiên cứu, thiết bị dược lựa chọn là ESP32-NodeMCU. Thiết bị cung cấp tính năng giao tiếp môi trường mạng thông qua chuẩn WiFi, qua đó thiết bị dễ dàng giao tiếp các hệ thống mạng bằng giao thức HTTP/HTTPS.   
 
